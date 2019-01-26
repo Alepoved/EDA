@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\alejandro\documents\visual studio 2015\projects\eda_ev_3\main.cpp(16): warning C4018: '<': no coinciden signed/unsigned
+  eda3.vcxproj -> C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\EDA_EV_3\Debug\eda3.exe
+  eda3.vcxproj -> C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\EDA_EV_3\Debug\eda3.pdb (Full PDB)

@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\alejandro\documents\visual studio 2015\projects\eda_ev4\eda_ev4\cola.h(72): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\alejandro\documents\visual studio 2015\projects\eda_ev4\eda_ev4\cola.h(66): note: durante la compilación de la función miembro de plantilla de clase 'void Cola<int>::llevarAlPrincipio(unsigned int)'
+  c:\users\alejandro\documents\visual studio 2015\projects\eda_ev4\eda_ev4\main.cpp(62): note: vea la referencia a la creación de instancias de plantilla de función 'void Cola<int>::llevarAlPrincipio(unsigned int)' que se está compilando
+  c:\users\alejandro\documents\visual studio 2015\projects\eda_ev4\eda_ev4\main.cpp(37): note: vea la referencia a la creación de instancias de plantilla de clase 'Cola<int>' que se está compilando
+  EDA_EV4.vcxproj -> C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\EDA_EV4\Debug\EDA_EV4.exe
+  EDA_EV4.vcxproj -> C:\Users\Alejandro\Documents\Visual Studio 2015\Projects\EDA_EV4\Debug\EDA_EV4.pdb (Full PDB)
