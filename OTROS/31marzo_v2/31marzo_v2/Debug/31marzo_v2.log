@@ -1,0 +1,8 @@
+﻿  EDA48.cpp
+c:\users\alejandro\documents\visual studio 2015\projects\31marzo_v2\31marzo_v2\eda48.cpp(114): warning C4018: '<': no coinciden signed/unsigned
+c:\users\alejandro\documents\visual studio 2015\projects\31marzo_v2\31marzo_v2\lista.h(227): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\alejandro\documents\visual studio 2015\projects\31marzo_v2\31marzo_v2\lista.h(222): note: durante la compilación de la función miembro de plantilla de clase 'const int &List<int>::at(unsigned int) const'
+  c:\users\alejandro\documents\visual studio 2015\projects\31marzo_v2\31marzo_v2\eda48.cpp(115): note: vea la referencia a la creación de instancias de plantilla de función 'const int &List<int>::at(unsigned int) const' que se está compilando
+  c:\users\alejandro\documents\visual studio 2015\projects\31marzo_v2\31marzo_v2\eda48.cpp(8): note: vea la referencia a la creación de instancias de plantilla de clase 'List<int>' que se está compilando
+  31marzo_v2.vcxproj -> c:\users\alejandro\documents\visual studio 2015\Projects\31marzo_v2\Debug\31marzo_v2.exe
+  31marzo_v2.vcxproj -> c:\users\alejandro\documents\visual studio 2015\Projects\31marzo_v2\Debug\31marzo_v2.pdb (Partial PDB)

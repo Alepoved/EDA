@@ -1,0 +1,4 @@
+﻿  50.cpp
+c:\users\alejandro\documents\visual studio 2015\projects\31marzo\31marzo\50.cpp(45): warning C4101: 'aux': variable local sin referencia
+  31marzo.vcxproj -> C:\Users\Alejandro\documents\visual studio 2015\Projects\31marzo\Debug\31marzo.exe
+  31marzo.vcxproj -> C:\Users\Alejandro\documents\visual studio 2015\Projects\31marzo\Debug\31marzo.pdb (Partial PDB)
